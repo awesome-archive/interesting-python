@@ -12,7 +12,7 @@
 - pandas
 - requests
 
-**注：具体分析说明可以关注微信公众号：Alfred在纽西兰，阅读对应文章**
+**注：具体分析说明可以关注微信公众号：[Alfred数据室](https://wx1.sinaimg.cn/mw690/007yVcwsgy1g03lo67ikoj30u00f0ta0.jpg)，阅读对应文章《[回复“实习僧”CTO之换种姿势爬取实习僧网站](https://mp.weixin.qq.com/s/UF3SF_cpbx8PFkva7rWW3Q)》**
 
 ## Another approach for "shixiseng.com" crawling
 
@@ -28,4 +28,4 @@ Main files are listed below:
 - pandas
 - requests
 
-**Notice: you can find the detailed document by following Alfred's wechat official account: Alfred_Lab**
+**Notice: you can find the detailed document by following Alfred's wechat official account: [Alfred_Lab](https://wx1.sinaimg.cn/mw690/007yVcwsgy1g03lo67ikoj30u00f0ta0.jpg)**

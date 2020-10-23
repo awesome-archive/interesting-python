@@ -13,7 +13,7 @@
 - WechatSogou
 - python-docx
 
-**注：步骤说明可以关注微信公众号：Alfred在纽西兰，阅读对应文章**
+**注：步骤说明可以关注微信公众号：[Alfred数据室](https://wx1.sinaimg.cn/mw690/007yVcwsgy1g03lo67ikoj30u00f0ta0.jpg)，阅读对应文章《[50行代码教你打造一个公众号文章采集器](https://mp.weixin.qq.com/s/Yt4Gde2TuCWvK8pPCiZZRQ)》**
 
 
 ## Wechat official account article colllector
@@ -31,4 +31,4 @@ It is a simple project containing files listed below:
 - WechatSogou
 - python-docx
 
-**Notice: you can find the detailed document by following Alfred's wechat official account: Alfred_Lab**
+**Notice: you can find the detailed document by following Alfred's wechat official account: [Alfred_Lab](https://wx1.sinaimg.cn/mw690/007yVcwsgy1g03lo67ikoj30u00f0ta0.jpg)**

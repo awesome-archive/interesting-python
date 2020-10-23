@@ -19,7 +19,7 @@
 - pandas、numpy、scipy
 - matplotlib、seaborn、boke
 
-**注：具体分析说明可以关注微信公众号：Alfred在纽西兰，阅读对应文章**
+**注：具体分析说明可以关注微信公众号：[Alfred数据室](https://wx1.sinaimg.cn/mw690/007yVcwsgy1g03lo67ikoj30u00f0ta0.jpg)，阅读对应文章《[【20G】Kaggle数据集强势分析“绝地求生”，攻略吃鸡！](https://mp.weixin.qq.com/s/FednLB6IIQFBmMYv3udm0A)》**
 
 
 ## PUBG matches data analysis
@@ -43,4 +43,4 @@ The main files are listed below:
 - pandas、numpy、scipy
 - matplotlib、seaborn、boke
 
-**Notice: you can find the detailed document by following Alfred's wechat official account: Alfred_Lab**
+**Notice: you can find the detailed document by following Alfred's wechat official account: [Alfred_Lab](https://wx1.sinaimg.cn/mw690/007yVcwsgy1g03lo67ikoj30u00f0ta0.jpg)**
